@@ -1,3 +1,4 @@
+let bob = input.temperature(TemperatureUnit.Fahrenheit)
 while (true) {
-    console.log("Current room Temperature: " + input.temperature(TemperatureUnit.Fahrenheit) + "°F - " + input.temperature(TemperatureUnit.Celsius) + "°C")
+    console.log("Current room tempereture is:" + bob)
 }
